@@ -1,6 +1,6 @@
 ## Welcome to my GitHub Pages
 
-# Interests
+### Interests
 ```markdown
 - Functional Programming
 - Machine Learning
