@@ -1,10 +1,7 @@
 ## Welcome to my GitHub Pages
 
-```markdown
-Interests
-
 # Interests
-
+```markdown
 - Functional Programming
 - Machine Learning
 - Distributed Systems
